@@ -1,2 +1,2 @@
 # Data-Science-Soc
-Exercises and resources from Imperial College London Data Science Society.
+Exercises and resources from the Imperial College London Data Science Society.
